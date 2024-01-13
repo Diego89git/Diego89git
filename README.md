@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 ¿Cómo contactarme? **dimsistem@gmail.com**, **diegomauri@rocketmail.com**
 
-- 🌱 Actualmente estoy aprendiendo **laravel**
+- 🌱 Actualmente desarrollo aplicaciones **web, mobil y escritorio**,**en Windows**
 
 
 <div align="left">
