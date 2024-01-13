@@ -43,7 +43,7 @@ He incursionado en la implementación y capacitación de software contables como
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
+      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -56,7 +56,7 @@ He incursionado en la implementación y capacitación de software contables como
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
+      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -71,7 +71,7 @@ He incursionado en la implementación y capacitación de software contables como
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
+      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -84,7 +84,7 @@ He incursionado en la implementación y capacitación de software contables como
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
+      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
