@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <img src="https://www.vipnet360.com/wp-content/uploads/2021/06/La-importancia-de-contar-con-un-desarrollador-o-programador-para-Wordpress_Vipnet360-1000x500.png" width="200" />
+    <img src="fondo.png" width="200" />
     <h1 align="center">Hola 👋, Soy Diego Toapanta</h1>
     <h3 align="center">Realizo actividades contables desde el 2014, como asesor tributario, laboral, implementacion NIIF, desde el 2012 e incursionado en la implementación y capacitación de software contables como MicroSQL Plus, SAFI (D.O.S., WIN, VISUAL, ERP, BPM), PCG Contable, trabajo en la generación de información financiera a partir del manejo de base de datos que sean manipulables mediante el dominio de SQL, colaborando con el análisis de bases de datos para auditorías, he realizado varias herramientas de apoyo contable con el uso de EXCEL, he desarrollado aplicaciones web y de escritorio, para descarga y lectura de comprobantesXML de facturación electrónica, gestión de nómina, comparativas de bases de datos para declaraciones, entre otros. Actualmente soy desarrollador de software (web, escritorio y móbil).</h3>
 </div>
