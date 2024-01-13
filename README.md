@@ -52,7 +52,7 @@ He incursionado en la implementación y capacitación de software contables como
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
+    <p>Datos del proyecto....</p>
   </div>                
 </td>
 
@@ -65,7 +65,7 @@ He incursionado en la implementación y capacitación de software contables como
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
+    <p>Datos del proyecto....</p>
   </div>  
 </td> 
 </table>   
@@ -80,7 +80,7 @@ He incursionado en la implementación y capacitación de software contables como
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
+    <p>Datos del proyecto....</p>
   </div>             
 </td>
 
@@ -93,7 +93,7 @@ He incursionado en la implementación y capacitación de software contables como
         <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
+    <p>Datos del proyecto....</p>
   </div>  
 </td> 
 </table>   
