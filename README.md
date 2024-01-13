@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego89git&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego89git&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Diego89git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego89git)](https://github.com/Diego89git/github-readme-stats)
