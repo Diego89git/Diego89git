@@ -46,10 +46,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
   <h3 align="center">App Amortiza(FullStack)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img/biotest.png" width="400" alt="Clinical Laboratory web page"></a>
+    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
-        <img src="img.jpg">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
@@ -59,10 +59,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
   <h3 align="center">App Amortiza(FullStack)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img/biotest.png" width="400" alt="Clinical Laboratory web page"></a>
+    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
-        <img src="img.jpg">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
@@ -74,10 +74,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
     <h3 align="center">App Amortiza(FullStack)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img/biotest.png" width="400" alt="Clinical Laboratory web page"></a>
+    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
-        <img src="img.jpg">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
@@ -87,10 +87,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
   <h3 align="center">App Amortiza(FullStack)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img/biotest.png" width="400" alt="Clinical Laboratory web page"></a>
+    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/ArmijosThais/FrontEnd_Web_BioTest" target="_blank">
-        <img src="img.jpg">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Developing a <strong>Web Application for a Clinical Laboratory's Frontend</strong> - This project involves creating an interface for a laboratory's web application. It includes functionalities and design elements catered specifically for the clinical setting.</p>
