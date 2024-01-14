@@ -39,7 +39,7 @@ He incursionado en la implementación y capacitación de software contables como
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center">App Amortiza(FullStack)</h3>
+  <h3 align="center">App Amortiza</h3>
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="amortizaimg.png" width="400" alt=""></a>
     <p>
@@ -54,7 +54,7 @@ He incursionado en la implementación y capacitación de software contables como
 </td>
 
 <td width="50%">
-  <h3 align="center">App Gestión de Pasajes de Bus(FullStack)</h3>
+  <h3 align="center">App Gestión de Pasajes de Bus</h3>
   <div align="center">
     <a href="https://github.com/Paulo1603C/Sistema-Web-movil-para-gestion-de-Buses.git" target="_blank"><img src="busesimg.png" width="400" alt=""></a>
     <p>
