@@ -31,8 +31,8 @@ He incursionado en la implementación y capacitación de software contables como
 - **Design Tools**: Figma, Adobe XD. 🎨
 
 ## Educación🎓
-- **Ingeniería en Contabilidad y Auditoria** - Universidad Técnica de Ambato (Graduado in 2014)
-- **Ingeniería en Software** - Universidad Técnica de Ambato (Graduado in 2024)
+- **Ingeniería en Contabilidad y Auditoria** - Universidad Técnica de Ambato (Graduado en 2014)
+- **Ingeniería en Software** - Universidad Técnica de Ambato (Graduado en 2024)
 
 
 ## Featured Projects
