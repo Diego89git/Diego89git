@@ -44,51 +44,60 @@ He incursionado en la implementación y capacitación de software contables como
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="amortizaimg.png">
       </a>
     </p>
-    <p>Datos del proyecto....</p>
+    <p>Aplicación web desarrollada en Angular con APIs en Laravel y BD en MariaDB</p>
+      <p>El programa permite configurar tanto los datos de las intituciones financieras como tipos de crédito, plazos, intereses etc</p>
+      <p>Con la información alimentada de las instituciones financieras se pone a disposicion del cliente final un apartado para generar las tablas de amortización</p>
   </div>                
 </td>
 
 <td width="50%">
-  <h3 align="center">App Amortiza(FullStack)</h3>
+  <h3 align="center">App Gestión de Pasajes de Bus(FullStack)</h3>
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="amortizaimg.png">
       </a>
     </p>
-    <p>Datos del proyecto....</p>
+    <p>Aplicación web y movil desarrollada en Android</p>
+      <p>La aplicación permite gestionar la venta y asignación de boletos de buses</p>
+      <p>Su estructura permite ser multiempresa, por lo que puede ser manejado por una institución de control de buses Interprovincial</p>
   </div>  
 </td> 
 </table>   
 <table>
 <tr>
 <td width="50%">
-    <h3 align="center">App Amortiza(FullStack)</h3>
+    <h3 align="center">Pagina Web, eCommerce y admin</h3>
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="cemplayimg.png">
       </a>
     </p>
-    <p>Datos del proyecto....</p>
+    <p>Aplicación web desarrollada en Angular con APIs en Laravel y BD en MariaDB</p>
+      <p>Página de presentación de la empresa</p>
+      <p>Página de comercio en linea</p>
+      <p>Panel de control para gestionar, grupos, categorias y productos</p>
   </div>             
 </td>
 
 <td width="50%">
-  <h3 align="center">App Amortiza(FullStack)</h3>
+  <h3 align="center">Alerta Emergencia (Notificaciones)</h3>
   <div align="center">
     <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
     <p>
       <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+        <img src="alarmaing.png">
       </a>
     </p>
-    <p>Datos del proyecto....</p>
+    <p>Aplicación de escritorio y movil desarrollada en .Net (C#) BD Sql Server, y Android</p>
+      <p>La aplicación simula un boton de pánico instalado en el celular de los usuarios finales (movil)</p>
+      <p>Dispone de un gestor de Notificaciones y usuarios para ateder las alarmas (escritorio)</p>
   </div>  
 </td> 
 </table>   
