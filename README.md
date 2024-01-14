@@ -16,7 +16,8 @@ Here are some ideas to get you started:
     <img src="fondo1.png"  />
     <h1 align="center">Hola 👋, Soy Diego Toapanta</h1>
 </div>
-## Acerca de mi
+
+## Sobre mi
 Realizo actividades contables desde el 2014, como asesor tributario, laboral, implementacion NIIF.
 He incursionado en la implementación y capacitación de software contables como MicroSQL Plus, SAFI (D.O.S., WIN, VISUAL, ERP, BPM), PCG Contable, desde el 2012.
 - 🚀Trabajo en la generación de información financiera a partir del manejo de base de datos que sean manipulables mediante el dominio de SQL, colaborando con el análisis de bases de datos para auditorías.
@@ -35,7 +36,7 @@ He incursionado en la implementación y capacitación de software contables como
 - **Ingeniería en Software** - Universidad Técnica de Ambato (Graduado en 2024)
 
 
-## Featured Projects
+## Proyectos
 <table>
 <tr>
 <td width="50%">
