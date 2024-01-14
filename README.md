@@ -41,10 +41,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
   <h3 align="center">App Amortiza(FullStack)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
+    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="amortizaimg.png" width="400" alt=""></a>
     <p>
       <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="amortizaimg.png">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Aplicación web desarrollada en Angular con APIs en Laravel y BD en MariaDB</p>
@@ -56,10 +56,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
   <h3 align="center">App Gestión de Pasajes de Bus(FullStack)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
+    <a href="https://github.com/Paulo1603C/Sistema-Web-movil-para-gestion-de-Buses.git" target="_blank"><img src="busesimg.png" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="amortizaimg.png">
+      <a href="https://github.com/Paulo1603C/Sistema-Web-movil-para-gestion-de-Buses.git" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Aplicación web y movil desarrollada en Android</p>
@@ -73,10 +73,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
     <h3 align="center">Pagina Web, eCommerce y admin</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
+    <a href="https://github.com/Diego89git/paginaWeb-cemplay.git" target="_blank"><img src="cemplayimg.png" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="cemplayimg.png">
+      <a href="https://github.com/Diego89git/paginaWeb-cemplay.git" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Aplicación web desarrollada en Angular con APIs en Laravel y BD en MariaDB</p>
@@ -89,10 +89,10 @@ He incursionado en la implementación y capacitación de software contables como
 <td width="50%">
   <h3 align="center">Alerta Emergencia (Notificaciones)</h3>
   <div align="center">
-    <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank"><img src="img.jpg" width="400" alt=""></a>
+    <a href="https://github.com/Diego89git/ProyectoAD_AlarmaNotify.git" target="_blank"><img src="alarmaimg.png" width="400" alt=""></a>
     <p>
-      <a href="https://github.com/Diego89git/app_amortiza.git" target="_blank">
-        <img src="alarmaing.png">
+      <a href="https://github.com/Diego89git/ProyectoAD_AlarmaNotify.git" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Aplicación de escritorio y movil desarrollada en .Net (C#) BD Sql Server, y Android</p>
